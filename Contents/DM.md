@@ -1,4 +1,4 @@
-# Data Management
+# Data Management {DM}
 
 > PC와 PP는 RELREC으로 연결된다!
 
