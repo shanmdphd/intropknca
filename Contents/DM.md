@@ -144,18 +144,59 @@ LibTabList - 잘라낸 것.
 PrTab function = ColJust - centering
 Round 함수. 
 
-===
 
+==The CDISC standard domain models (SDTMIG 3.1.2 and SENDIG 3.0)==
 
-===
-이시향 선생님께
+Special-Purpose Domains:
+* Demographics - DM 
+* Comments - CO
+* Subject Elements - SE
+* Subject Visits - SV (SDTMIG only)
 
-안녕하세요. 전공의 한성필입니다.
+Interventions:
+* Concomitant Medications - CM (SDTMIG only)
+* Exposure - EX
+* Substance Use - SU (SDTMIG only)
 
-PDF CRF의 테스트를 위해 이미 완료된 한미 RAOL에 대한 자료 입력을 요청드리고자 합니다. 
+Events:
+* Adverse Events - AE (SDTMIG only)
+* Disposition - DS
+* Medical History - MH (SDTMIG only)
+* Protocol Deviations - DV (SDTMIG only)
+* Clinical Events - CE (SDTMIG only)
 
-스크리닝 시의 Demographics에 대한 부분을 HM-RAOL-nnn-screening.pdf 에 채워 넣어주시고 배교수님 CT server, RAOL 폴더에 업로드 해주시면 됩니다.
+Findings:
+* Body Weight - BW (SEND only)
+* Body Weight Gain - BG (SEND only)
+* Clinical Observations - CL (SEND only)
+* Death Diagnosis - DD (SEND only)
+* Drug Accountability - DA (SDTMIG only)
+* ECG Tests - EG
+* Findings About Events or Interventions - FA (SDTMIG only)
+* Food and Water Consumption - FW (SEND only)
+* Inclusion/Exclusion Exceptions - IE (SDTMIG only)
+* Laboratory Tests - LB
+* Macroscopic Findings - MA (SEND only)
+* Microbiology Specimens - MB (SDTMIG only)
+* Microbiology Susceptibility - MS (SDTMIG only)
+* Microscopic Findings - MI (SEND only)
+* Organ Measurements - OM (SEND only)
+* Palpable Masses - PA (SEND only)
+* Pharmacokinetics Concentrations - PC 
+* Pharmacokinetics Parameters - PP 
+* Physical Examinations - PE (SDTMIG only)
+* Questionnaires - QS (SDTMIG only)
+* Subject Characteristics - SC
+* Tumor Findings - TF (SEND only)
+* Vital Signs - VS
 
-또한 데이타 입력 시 개선점을 지적해 주시면 개발에 큰 도움 될 것 같습니다. 가능하다면 여러 사람이 나눠서 입력하면서 feedback을 주시면 더 좋을 것 같고, 전공의들에게도 적어도 한명 이상의 대상자 자료를 건네주시면, 저희도 입력하면서 개선점을 찾을 수 있을 것 같습니다.
+Trial Design Domains:
+* Trial Elements - TE
+* Trial Arms - TA
+* Trial Visits - TV (SDTMIG only)
+* Trial Inclusion/Exclusion Criteria – TI (SDTMIG only)
+* Trial Summary - TS
 
-( iPhone과 iPad에서 Acrobat Reader DC 앱을 통해 입력, 저장 및 전송이 가능함을 확인 하였습니다. https://itunes.apple.com/kr/app/adobe-acrobat-reader/id469337564?mt=8 추후 iPad, Galaxy Tab 등의 tablet PC를 사용한다면 아예 종이 없는 CRF가 가능할 수 있을 것으로 생각되나 이것이 regulatory body 측에서 받아들일 수 있을지는 의문입니다.)
+Special-Purpose Relationship Datasets:
+* Supplemental Qualifiers - SUPPQUAL
+* Relate Records - RELREC
