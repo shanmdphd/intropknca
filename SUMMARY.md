@@ -7,8 +7,9 @@
 * Conclusion
 * Appendix
 * [Part I](part 1/README.md)
-   * [Writing is nice](part1/README.md#writing)
-   * [GitBook is nice](part1/README.md#gitbook)
+   * [Writing is nice](part 1/README.md#writing)
+   * [GitBook is nice](part 1/README.md#gitbook)
 * [Part II](part 2/README.md)
-   * [We love feedback](part2/README.md#feedback)
+   * [We love feedback](part 2/README.md#feedback)
+   * [We](part 2/README.md)
 
