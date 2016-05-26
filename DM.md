@@ -142,27 +142,31 @@ PrTab function = ColJust - centering
 Round 함수. 
 
 
-## The CDISC standard domain models (SDTMIG 3.1.2 and SENDIG 3.0)
+## The CDISC standard domain models {#CDISC-domain}
+SDTMIG 3.1.2 and SENDIG 3.0
 
-Special-Purpose Domains:
+### Special-Purpose Domains:
 * Demographics - DM 
 * Comments - CO
 * Subject Elements - SE
 * Subject Visits - SV (SDTMIG only)
 
-Interventions:
+### Interventions:
 * Concomitant Medications - CM (SDTMIG only)
 * Exposure - EX
 * Substance Use - SU (SDTMIG only)
 
-Events:
+
+### Events:
 * Adverse Events - AE (SDTMIG only)
 * Disposition - DS
 * Medical History - MH (SDTMIG only)
 * Protocol Deviations - DV (SDTMIG only)
 * Clinical Events - CE (SDTMIG only)
 
-Findings:
+
+### Findings:
+
 * Body Weight - BW (SEND only)
 * Body Weight Gain - BG (SEND only)
 * Clinical Observations - CL (SEND only)
@@ -187,13 +191,18 @@ Findings:
 * Tumor Findings - TF (SEND only)
 * Vital Signs - VS
 
-Trial Design Domains:
+
+### Trial Design Domains:
+
 * Trial Elements - TE
 * Trial Arms - TA
 * Trial Visits - TV (SDTMIG only)
 * Trial Inclusion/Exclusion Criteria – TI (SDTMIG only)
 * Trial Summary - TS
 
-Special-Purpose Relationship Datasets:
+
+### Special-Purpose Relationship Datasets:
+
+
 * Supplemental Qualifiers - SUPPQUAL
 * Relate Records - RELREC
