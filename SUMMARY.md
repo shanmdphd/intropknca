@@ -7,7 +7,7 @@
 * [Load the data](Contents/load_the_data.md)
    * [Merge the Concentration and Dose](Contents/merge_the_concentration_and_dose.md)
    * [Compute the parameters](Contents/compute_the_parameters.md)
-* ISoP
+* [ISoP](isop.md)
 * Final
 * Reference
 
