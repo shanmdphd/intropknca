@@ -21,18 +21,15 @@ http://www.phusewiki.org/docs/Posters2013CSS/PP02.pdf
 10. R을 사용하여 CSR Appendix 생성.
 11. DM에서 보낸것과 1:1 비교.
 
-
-Data Management #2016.04.06.Wed 오후 PP PC RELREC
 ## SDTM {#SDTM}
 14페이지 SDTM을 참고한다.
 
 Comments ()
-
 CM / EX / SU / PR(콧줄 언제 꽂았다)
-
 SD
 
-TS.XLSX - XPT는 SAS있어야되고.. 나중에 하고 CSV로 하자.
+### TS.XLSX - 
+XPT는 SAS있어야 한다. 나중에 하고 CSV로 하자.
 
 TSVAL title???
 DM 작업이 엉터리가 
@@ -145,7 +142,7 @@ PrTab function = ColJust - centering
 Round 함수. 
 
 
-==The CDISC standard domain models (SDTMIG 3.1.2 and SENDIG 3.0)==
+## The CDISC standard domain models (SDTMIG 3.1.2 and SENDIG 3.0)
 
 Special-Purpose Domains:
 * Demographics - DM 
