@@ -23,7 +23,7 @@ http://www.phusewiki.org/docs/Posters2013CSS/PP02.pdf
 
 
 Data Management #2016.04.06.Wed 오후 PP PC RELREC
-## SDTM
+## SDTM {#SDTM}
 14페이지 SDTM을 참고한다.
 
 Comments ()
