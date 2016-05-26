@@ -2,6 +2,7 @@
 ## ISoP Pharmacometrics Study Group Presentation
 * 강의 동영상 https://www.youtube.com/watch?v=WCmFrheYtcc
 * 프로젝트 https://github.com/billdenney/pknca
+* Package https://cran.r-project.org/web/packages/PKNCA/ 
 * 예제 R Markdown 파일 : https://github.com/billdenney/pknca/tree/master/vignettes
 * PPT 파일 
 
@@ -30,8 +31,9 @@ install_github("billdenney/pknca")
 
 ## 한계 
 * 그래픽 못그림
+* 파라메터의 statistics 못구함 (곧 기능 추가할듯)
 
-## PKNCA 현재는 7.0
+## PKNCA 현재는 0.7
 * NCA 파라메터 계산가능 (Cmax, Tmax, AUClast, AUCinf, AUMC, half-life, …)
 * NCA-related calculations (Superposition, Concentration interpolation/extrapolation (with AUC methods), Time to steady-state)
 * SDTM PP-READY OUTPUT 가능
@@ -43,7 +45,7 @@ install_github("billdenney/pknca")
 
 ## 참고사항
 * Github에서 모두 다운로드 가능
-* CRAN에 package올라왔다. (0.7)
+* CRAN에 package올라왔다. (0.7) https://cran.r-project.org/web/packages/PKNCA/ 
 * wdenney@humanpredictions.com 으로 메일 보내라
 * 모든게 오픈이기 때문에 Github에서 기여 환영
 
