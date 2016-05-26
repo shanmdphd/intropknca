@@ -7,5 +7,5 @@
    * [Merge the Concentration and Dose](Contents/merge_the_concentration_and_dose.md)
    * [Compute the parameters](Contents/compute_the_parameters.md)
 * [Conclusion](conclusionmd.md)
-* [Reference](Reference.md)
+* [Reference](referencemd.md)
 
