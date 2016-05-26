@@ -1,6 +1,6 @@
 # Summary
 
-Intro
+[Intro](README.md)
 
 * [Chapter.DM을 위한 PKNCA 입문](README.md)
    * Article
