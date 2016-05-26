@@ -1,9 +1,11 @@
 # Load the data {#load-the-data}
 
+먼저 데이타를 살펴보겠습니다.
 ```
 ## It is always a good idea to look at the data
 knitr::kable(head(datasets::Theoph))
 ```
+knitr를 통해 Theoph를 좀 더 쉽게 exploartion할 수 있습니다.
 
 | Subject | Wt | Dose | Time | conc |
 | :-- | --: | --: | --: | --: |
