@@ -6,13 +6,8 @@
 * [Theophylline예제](Contents/README.md)
 * [Load the data](Contents/load_the_data.md)
    * [Merge the Concentration and Dose](merge_the_concentration_and_dose.md)
-   * [Compute the parameters](compute_the_parameters.md)
-* [Part I](part 1/README.md)
-   * [Writing is nice](part 1/README.md#writing)
-   * [GitBook is nice](part 1/README.md#gitbook)
-* [Part II](part 2/README.md)
-   * Conclusion
-   * [We love feedback](part 2/README.md#feedback)
+   * [Compute the parameters](Contents/compute_the_parameters.md)
+
 * Appendix
 * Final
 * Reference
