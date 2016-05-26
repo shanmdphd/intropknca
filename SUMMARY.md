@@ -8,4 +8,5 @@
    * [Merge the Concentration and Dose](merge_the_concentration_and_dose.md)
    * [Compute the parameters](compute_the_parameters.md)
 * Conclusion
+* Appendix
 
