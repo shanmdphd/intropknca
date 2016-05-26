@@ -13,8 +13,8 @@
    * [Writing is nice](part 1/README.md#writing)
    * [GitBook is nice](part 1/README.md#gitbook)
 * [Part II](part 2/README.md)
+   * Conclusion
    * [We love feedback](part 2/README.md#feedback)
-* Conclusion
 * Appendix
 * Final
 
