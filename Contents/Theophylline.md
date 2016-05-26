@@ -1,7 +1,5 @@
 # Theophylline
-
-Examples simplify understanding. Below is an example of how to use the theophylline dataset to generate NCA parameters.
-
+Theophylline 데이타셋에서 NCA 파라메터를 계산하는 작은 예를 실행해 봅시다.
 # Load the data {#load-the-data}
 먼저 데이타를 살펴보겠습니다.
 ```
