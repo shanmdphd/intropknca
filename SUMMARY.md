@@ -6,4 +6,4 @@
 * [Load the data](load_the_data.md)
 * [Merge the Concentration and Dose](merge_the_concentration_and_dose.md)
 * [Compute the parameters](compute_the_parameters.md)
-* 
+* Conclusion
