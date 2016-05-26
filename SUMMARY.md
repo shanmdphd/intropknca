@@ -1,6 +1,6 @@
 # Summary
 
-* [Introduction to PKNCA](README.md)
+* [DM을 위한 PKNCA 입문](README.md)
 * [Computing NCA Parameters for Theophylline](computing_nca_parameters_for_theophylline/README.md)
    * [Bill Denney](computing_nca_parameters_for_theophylline/bill_denney.md)
    * PC와 PP를 RELREC으로 연결
