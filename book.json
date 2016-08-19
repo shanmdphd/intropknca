@@ -1,1 +1,17 @@
-{  "gitbook":"2.x.x", "plugins":[  "mathjax", "styles-sass" ], "links":{  "sidebar":{  "Contact us / Support":"http://shanmdphd.github.io/", "AMC CPT":"http://cpt.amc.seoul.kr/" } }, "pdf":{  "fontSize":9 }}
+
+{  
+   "gitbook":"2.x.x",
+   "plugins":[  
+      "mathjax",
+      "styles-sass"
+   ],
+   "links":{  
+      "sidebar":{  
+         "Contact us / Support":"http://shanmdphd.github.io/",
+         "AMC CPT":"http://cpt.amc.seoul.kr/"
+      }
+   },
+   "pdf":{  
+      "fontSize":9
+   }
+}
